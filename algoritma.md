@@ -1,4 +1,4 @@
-## Langkah-Langkah Algoritma
+## Contoh Langkah-Langkah Algoritma
 
 1. Menentukan harga menu.
 2. Menentukan jumlah pesanan.
@@ -6,13 +6,11 @@
 4. Menyimpan hasil perhitungan ke dalam variabel total.
 5. Menampilkan total pembayaran.
 
-## Pseudocode
+## Contoh Pseudocode
 
-```text
 MULAI
     INPUT harga_menu
     INPUT jumlah_pesanan
     total = harga_menu * jumlah_pesanan
     OUTPUT total
 SELESAI
-```
