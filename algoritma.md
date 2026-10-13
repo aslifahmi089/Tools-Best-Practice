@@ -8,9 +8,11 @@
 
 ## Contoh Pseudocode
 
+```text
 MULAI
     INPUT harga_menu
     INPUT jumlah_pesanan
     total = harga_menu * jumlah_pesanan
     OUTPUT total
 SELESAI
+```
